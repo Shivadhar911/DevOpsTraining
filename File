@@ -4,3 +4,6 @@ Git is local repo
 Github is global repo
 Git init : Initialize a new git repository
 Git clone : copy of a local repository
+git clone : Copy of local repository
+
+
